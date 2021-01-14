@@ -22,8 +22,8 @@ export default function skills() {
       </ul>
       <h2>Databases</h2>
       <ul>
-        <li>SQL => Postgres</li>
-        <li>NoSQL => MongoDB</li>
+        <li>SQL Postgres</li>
+        <li>NoSQL MongoDB</li>
       </ul>
       <h2>DevOps and other tools</h2>
       <ul>
