@@ -13,6 +13,9 @@
 .brand__name {
   cursor: pointer;
 }
+.brand__name a:hover {
+  color: #0088a9;
+}
 .nav__links {
   text-decoration: none;
   list-style: none;
