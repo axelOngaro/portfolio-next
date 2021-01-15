@@ -1,9 +1,10 @@
-import React from "react";
-import Navbar from "../components/Navbar";
+import React from 'react';
+import Navbar from '../components/Navbar';
+import styles from '../styles/Home.module.css';
 
 export default function skills() {
   return (
-    <div>
+    <div className={styles.container}>
       <Navbar />
       <h1>Skills page</h1>
       <h2>Front end</h2>

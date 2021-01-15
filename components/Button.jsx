@@ -1,5 +1,5 @@
-import React from "react";
-import styles from "../styles/Button.module.css";
+import React from 'react';
+import styles from '../styles/Button.module.css';
 
 export default function Button(props) {
   const { name, link } = props;
